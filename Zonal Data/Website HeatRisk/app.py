@@ -10,7 +10,6 @@ import math
 app = Flask(__name__)
 CORS(app)
 
-OPENWEATHER_API_KEY = "7b2a3ee8aa613c374b0b664d95a7e1ac"
 
 ZONE_NDVI = {
     'Battaramulla': 0.601687225,
